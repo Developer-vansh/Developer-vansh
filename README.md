@@ -53,9 +53,6 @@ I enjoy combining elegant UI with strong system architecture.
 
 ## 🔥 Featured Projects
 
-### 🍎 SwiftUI Interactive App
-An interactive iOS app focused on accessibility, smooth animations, and intuitive UI design following Apple Human Interface Guidelines.
-
 ### ⚙️ EventBurst – Virtual Event Platform
 Full-stack event management platform built with .NET, Node.js, MongoDB, and Docker.
 
