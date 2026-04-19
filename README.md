@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Vansh%20Gaba&fontSize=68&fontColor=58A6FF&fontAlignY=40&desc=Backend%20Engineer%20%7C%20iOS%20Developer%20%7C%20WWDC%202026%20Swift%20Student%20Challenge%20Winner&descAlignY=63&descSize=15&animation=fadeIn&stroke=58A6FF&strokeWidth=1" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1900">
 
-</div>
+<br/>
 
-<div align="center">
+# `> Vansh Gaba`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+APIs+that+scale+to+millions;Microservices+%7C+Docker+%7C+Supabase+%7C+.NET;Building+on-chain+systems+with+Solidity;WAM+86.5+%7C+Deakin+University+Software+Engineering;WWDC+2026+Swift+Student+Challenge+Winner+🍎)](https://github.com/Developer-vansh)
 
@@ -72,10 +72,10 @@ vansh@dev:~$ █
 ├──────────────────┴──────────────────┴───────────────────────────┤
 │                     iOS & MOBILE                                │
 │  Swift · SwiftUI · UIKit · React Native · MVVM Architecture    │
-├──────────────────────────────────────────────────────────────────┤
+├─────────────────────────────────────────────────────────────────┤
 │                     BLOCKCHAIN                                  │
 │  Solidity · Smart Contracts · Ethereum · ethers.js · React     │
-└──────────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -151,10 +151,10 @@ commit d03bc17  ──  unStigma — Mental Health Platform (Hackathon Winner)
 > Tamper-proof decentralized voting on Ethereum — eliminates single-point-of-failure risks of centralised ballot systems. Wallet-connected React frontend with **<15s vote confirmation latency** on testnet and on-chain transparent result verification.
 
 ### 🎵 [Music School Platform](https://github.com/Developer-vansh/music-nextjs) &nbsp;·&nbsp; `Next.js · Tailwind CSS`
-> Full-featured online course platform achieving **Lighthouse score 94+** — 40% faster than CSR baseline using Next.js SSG, image optimisation, and lazy-loading. Reusable component-driven architecture with fully responsive layouts.
+> Full-featured online course platform achieving **Lighthouse score 94+** — 40% faster than CSR baseline via Next.js SSG, image optimisation, and lazy-loading. Reusable component-driven architecture with fully responsive layouts.
 
 ### 🧠 unStigma &nbsp;·&nbsp; `AI Chatbot · Full Stack · Hackathon Winner`
-> Hackathon-selected mental health platform — AI chatbot with **5–10s response time**, appointment booking, and resource hub. Redesigned onboarding cut user drop-off by **45%** through accessibility-first, low-friction UX patterns.
+> Hackathon-selected mental health platform — AI chatbot with **5–10s response time**, appointment booking, and resource hub. Redesigned onboarding cut user drop-off by **45%** through accessibility-first UX patterns.
 
 ---
 
@@ -209,8 +209,11 @@ commit d03bc17  ──  unStigma — Mental Health Platform (Hackathon Winner)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer&fontColor=58A6FF&animation=fadeIn" width="100%"/>
+```
+───────────────────────────────────────────────────
+  "First, make it work. Then, make it scale."
+───────────────────────────────────────────────────
+```
 
-*"First, make it work. Then, make it scale."*
 
 </div>
